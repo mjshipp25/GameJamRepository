@@ -1,4 +1,4 @@
-# GameJamRepository
+# First Game Jam
 
 ## Why
 Creating a 2D platformer for the "My First Game Jam: Summer 2022" game jam. 
