@@ -1,7 +1,8 @@
 # First Game Jam
 
 ## Why
-Creating a 2D platformer for the "My First Game Jam: Summer 2022" game jam. 
+Forgot to submit to this game jam, submitted to "Weekly Game Jam - Week 262" instead.
+~~Creating a 2D platformer for the "My First Game Jam: Summer 2022" game jam.~~ 
 
 ## How
 Following the Brackeyys tutorial series "How to make a 2D Platformer - Unity Course".
